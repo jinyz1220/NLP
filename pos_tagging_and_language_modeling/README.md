@@ -39,7 +39,7 @@ This project involves implementing and experimenting with neural networks to per
 - **Exploration**: Experiment with different neural network configurations, including varying the number of hidden layers, layer widths, and types of nonlinearities.
 - **Window Sizes**: Compare results for different context window sizes (w = 0, 1, 2).
 
-#### 5. Advanced Experiments (Extra Credit)
+#### 5. Advanced Experiments
 - **RNN Taggers**: Implement and compare RNN-based taggers, including standard RNN, LSTM, GRU, and bidirectional variants.
 - **Evaluation**: Measure tagging accuracies on the development test set.
 
